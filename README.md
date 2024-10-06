@@ -23,7 +23,7 @@ Inspired by: [YouTube Video](https://www.youtube.com/watch?v=GVOcElOPs8E&t=110s)
     cd; git clone https://github.com/nizpew/automatic-firefox-sett.git
     chmod +x automatic-firefox-sett/*sh
     ./automatic-firefox-sett/*sh
-User interaction will be needed, and you shall obey those. You can read what the command is doing and press the keys as instructed. Examples:
+User interaction will be needed, and you shall click like this. You can read what the command is doing and press the keys as instructed. Examples:
 
     "CLICK Y AND (afterwards) Enter"
     "CLICK Enter"
