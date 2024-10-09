@@ -1,6 +1,6 @@
 # Firefox Configuration Script
 
-This script automates the process of configuring Firefox with custom settings and preferences using scripts and configuration files from Arkenfox and GitLab. Adjust paths and permissions as necessary based on your environment and Firefox setup.
+[status: not working] .This script automates the process of configuring Firefox with custom settings and preferences using scripts and configuration files from Arkenfox and GitLab. Adjust paths and permissions as necessary based on your environment and Firefox setup.
 
 Inspired by: [YouTube Video](https://www.youtube.com/watch?v=GVOcElOPs8E&t=110s)
 
